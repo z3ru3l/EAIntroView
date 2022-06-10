@@ -166,4 +166,4 @@ Created and maintained by Evgeny Aleksandrov ([@ealeksandrov](https://twitter.co
 
 ## License
 
-`EAIntroView` is available under the MIT license. See the [LICENSE.md](LICENSE.md) file for more info.
+`EAIntroView` is available under the MIT license. See the [LICENSE.md](LICENSE.md) file for more info. 123
