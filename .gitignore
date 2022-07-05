@@ -33,3 +33,5 @@ Carthage/
 
 # Swift Package Manager
 .build/
+
+.git-credentials
